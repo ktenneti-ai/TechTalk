@@ -497,9 +497,9 @@ To improve this utility:
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.0 | 2024-01-01 | Initial release with basic deletion functionality |
-| 1.1 | 2024-01-15 | Added pattern matching and dry run features |
-| 1.2 | 2024-02-01 | Enhanced error handling and SQL warehouse fallback |
+| 1.0 | 2025-08-10 | Initial release with basic deletion functionality |
+| 1.1 | 2025-08-12 | Added pattern matching and dry run features |
+| 1.2 | 2025-08-14 | Enhanced error handling and SQL warehouse fallback |
 
 ---
 
